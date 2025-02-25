@@ -1,0 +1,71 @@
+**Practice Test: Music Theory**
+
+1. What is the term for the speed at which a piece of music is played?
+   a) Dynamics  
+   b) Timbre  
+   c) Tempo  
+   d) Harmony  
+   **Correct Answer: c) Tempo**
+
+2. Which of the following terms refers to the combination of different musical notes played or sung simultaneously?
+   a) Melody  
+   b) Harmony  
+   c) Rhythm  
+   d) Texture  
+   **Correct Answer: b) Harmony**
+
+3. In music theory, what is the name of the set of five horizontal lines and four spaces on which music is notated?
+   a) Staff  
+   b) Clef  
+   c) Measure  
+   d) Ledger  
+   **Correct Answer: a) Staff**
+
+4. What is the term used to describe the relative loudness or softness of a sound in music?
+   a) Timbre  
+   b) Dynamics  
+   c) Pitch  
+   d) Articulation  
+   **Correct Answer: b) Dynamics**
+
+5. Which clef is most commonly used for notating the higher registers of music?
+   a) Bass Clef  
+   b) Alto Clef  
+   c) Tenor Clef  
+   d) Treble Clef  
+   **Correct Answer: d) Treble Clef**
+
+6. What is the term for a sequence of notes that is perceived as a single entity, often referred to as the "tune"?
+   a) Chord  
+   b) Scale  
+   c) Melody  
+   d) Interval  
+   **Correct Answer: c) Melody**
+
+7. Which of the following describes the texture of music when there is a single melodic line without accompaniment?
+   a) Homophonic  
+   b) Polyphonic  
+   c) Monophonic  
+   d) Heterophonic  
+   **Correct Answer: c) Monophonic**
+
+8. What is the interval called that spans eight notes in a diatonic scale?
+   a) Fifth  
+   b) Fourth  
+   c) Octave  
+   d) Sixth  
+   **Correct Answer: c) Octave**
+
+9. In music notation, what is the symbol that raises a note by a half step?
+   a) Flat  
+   b) Sharp  
+   c) Natural  
+   d) Double Sharp  
+   **Correct Answer: b) Sharp**
+
+10. What is the term for a group of notes played in succession, forming a cohesive musical idea?
+    a) Scale  
+    b) Chord  
+    c) Phrase  
+    d) Interval  
+    **Correct Answer: c) Phrase**

@@ -22,8 +22,9 @@ class TestListView(TemplateView):
     template_name = 'download.html'
 
     def get_context_data(self, **kwargs):
+        from .services import print_all_questions  # Import here to get fresh data
         context = super().get_context_data(**kwargs)
-        context['data'] = data
+        context['data'] = print_all_questions()  # Fetch latest questions
         return context
 
 def download(request, test_id):
